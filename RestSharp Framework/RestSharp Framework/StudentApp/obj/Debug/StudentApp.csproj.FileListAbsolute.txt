@@ -1,0 +1,11 @@
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\CommonLibs.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\ExtentReports.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\RestSharp.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\CommonLibs.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\bin\Debug\RestSharp.xml
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentApp\obj\Debug\StudentApp.pdb

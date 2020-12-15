@@ -1,0 +1,18 @@
+C:\Users\KU3I\Documents\Visual Studio 2015\Projects\ModularFramework\CommonLibs\obj\Debug\CommonLibs.csprojAssemblyReference.cache
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\bin\Debug\CommonLibs.exe.config
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\bin\Debug\CommonLibs.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\bin\Debug\CommonLibs.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\bin\Debug\ExtentReports.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\bin\Debug\RestSharp.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\bin\Debug\RestSharp.xml
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\obj\Debug\CommonLibs.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\obj\Debug\CommonLibs.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\CommonLibs\obj\Debug\CommonLibs.csprojResolveAssemblyReference.cache
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\bin\Debug\CommonLibs.exe.config
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\bin\Debug\CommonLibs.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\bin\Debug\CommonLibs.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\bin\Debug\ExtentReports.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\bin\Debug\RestSharp.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\bin\Debug\RestSharp.xml
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\obj\Debug\CommonLibs.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\CommonLibs\obj\Debug\CommonLibs.pdb

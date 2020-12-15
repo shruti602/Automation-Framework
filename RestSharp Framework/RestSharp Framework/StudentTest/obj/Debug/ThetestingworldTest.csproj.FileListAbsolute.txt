@@ -1,0 +1,24 @@
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\StudentTest.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\StudentTest.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\CommonLibs.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\ExtentReports.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\RestSharp.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\StudentApp.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\CommonLibs.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\StudentApp.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\bin\Debug\RestSharp.xml
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\obj\Debug\ThetestingworldTest.csprojResolveAssemblyReference.cache
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\obj\Debug\StudentTest.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\ModularFramework\ModularFramework\StudentTest\obj\Debug\StudentTest.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\CommonLibs.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\ExtentReports.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\RestSharp.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\StudentApp.exe
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\CommonLibs.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\StudentApp.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\RestSharp.xml
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\obj\Debug\ThetestingworldTest.csprojResolveAssemblyReference.cache
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\ThetestingworldTest.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\bin\Debug\ThetestingworldTest.pdb
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\obj\Debug\ThetestingworldTest.dll
+C:\Users\swf6\Documents\Automation Learning\12-15\RestSharp Framework\RestSharp Framework\StudentTest\obj\Debug\ThetestingworldTest.pdb

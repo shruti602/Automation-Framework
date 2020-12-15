@@ -1,0 +1,8 @@
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\bin\Debug\TechSkills.dll
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\bin\Debug\TechSkills.pdb
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\bin\Debug\Newtonsoft.Json.dll
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\bin\Debug\Newtonsoft.Json.xml
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\obj\Debug\TechSkills.csprojResolveAssemblyReference.cache
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\obj\Debug\TechSkills.dll
+c:\users\ku3i\documents\visual studio 2015\Projects\ModularFramework\TechSkills\obj\Debug\TechSkills.pdb
